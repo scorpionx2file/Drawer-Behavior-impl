@@ -1,4 +1,4 @@
-# Drawer-Behavior-impl fixinf important after jcenter()
+# Drawer-Behavior-impl fixing important after jcenter()
 
 I liked that library, but unfortunately after mavenCentral() 
 was released and jcenter() was deprecated.
